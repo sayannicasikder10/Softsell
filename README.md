@@ -1,5 +1,3 @@
-SoftSell - Marketing Website
-Overview
 SoftSell is a fictional software resale startup that helps companies sell their unused software licenses. This project is a single-page marketing website built with React.js and styled using Tailwind CSS. The website includes an interactive layout, animations, and a contact form for potential clients.
 
 Features Implemented
@@ -115,3 +113,4 @@ Framer Motion was used to enhance the UX with smooth animations.
 
 
 A single-page React app to resell your software licenses.
+Total: 16 hours# Softsell
